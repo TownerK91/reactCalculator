@@ -1,0 +1,2 @@
+# reactCalculator
+react and PropTypes 
